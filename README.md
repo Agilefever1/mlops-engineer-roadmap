@@ -166,7 +166,7 @@ Most production ML runs on a cloud platform. We learn the managed services each 
 - [MLOps with Azure or MLOps with GCP: basics to advanced](https://agilefever.com/mlops-with-azure-or-mlops-with-gcp/)
 - [Azure vs AWS vs Google Cloud: which to learn first for AI agents](https://agilefever.com/azure-vs-aws-vs-google-cloud-ai-agents/)
 - [DevOps Engineer to AI Infrastructure Engineer roadmap](https://agilefever.com/devops-engineer-to-ai-infrastructure-engineer-roadmap/)
-- Amazon SageMaker, Azure Machine Learning and Vertex AI
+- [Amazon SageMaker, Azure Machine Learning and Vertex AI](https://agilefever.com/mlops-with-azure-or-mlops-with-gcp/)
 - Scalable inference and cloud ML pipelines
 
 ### Step 11: LLMOps
